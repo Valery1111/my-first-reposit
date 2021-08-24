@@ -1,0 +1,1 @@
+sinus = tg * cos
